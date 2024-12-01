@@ -1,4 +1,4 @@
-package Links;
+package constant.links;
 
 public interface ILink {
     String basketballLink="https://fonbet.by/sports/basketball";
